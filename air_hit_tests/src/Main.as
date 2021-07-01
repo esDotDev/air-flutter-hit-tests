@@ -7,11 +7,7 @@ package
 	import flash.display.StageScaleMode;
 	import flash.ui.Multitouch;
 	import flash.ui.MultitouchInputMode;
-	
-	/**
-	 * ...
-	 * @author esdotdev
-	 */
+
 	public class Main extends Sprite 
 	{
 		
